@@ -59,7 +59,7 @@ python cookie_scanner.py <hostname|hostnames.txt|["hostname1", "hostname2", ...]
 
 - **List of Hostnames (as a string)**:
   ```bash
-  python cookie_scanner.py '["example.com", "test.com"]'
+  python cookie_scanner.py '["https://example.com", "http://test.com"]'
   ```
 
 - **Hostnames from a `.txt` file**:
