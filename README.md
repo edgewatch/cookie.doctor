@@ -54,7 +54,7 @@ python cookie_scanner.py <hostname|hostnames.txt|["hostname1", "hostname2", ...]
 
 - **Single Hostname**:
   ```bash
-  python cookie_scanner.py example.com
+  python cookie_scanner.py https://example.com
   ```
 
 - **List of Hostnames (as a string)**:
