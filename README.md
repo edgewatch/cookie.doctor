@@ -36,7 +36,7 @@ pip install requests
    pip install -r requirements.txt
    ```
 
-3. Ensure the API endpoint for Cookie Doctor is configured correctly. By default, the script uses a local API endpoint:
+3. Ensure the API endpoint for Cookie Doctor is configured correctly:
 
    ```python
    API_COOKIE_DOCTOR='https://api.cookie.doctor/api/v1/process_host/'
