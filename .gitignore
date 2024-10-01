@@ -2,3 +2,4 @@ venv
 temp
 output
 get-pip.py
+.vscode
